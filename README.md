@@ -12,17 +12,8 @@ The pen holder is a cylindrical container used to organize pens and pencils on a
 - Vernier caliper  
 - Measuring tape  
 
-## Dimensions
-- Height: 120 mm  
-- Outer diameter: 75 mm  
-- Inner diameter: 67 mm  
-- Wall thickness: 4 mm  
-- Fillet (top edge): 2 mm  
-- Chamfer (bottom edge): 2 mm
-
 
  [Onshape Model Link](https://cad.onshape.com/documents/9cec58c3a9960e2f69728b91/w/a696a5ecaa47a9953e1a4fd2/e/cde3c0f2da60bd67d21bc866?configuration=List_1jMbTF1KVu8Lgk%3DDefault%3BList_G2tGBnXfW5R2wQ%3DDefault&renderMode=0&uiState=68e01a1e2bf24365c83d44be)
-
 
 
 
